@@ -10,3 +10,4 @@ In this repository, the physics problem are solved by numerical algorithm. The p
 8. Ising model for ferro-magnetism
 
 `base/DEq_solver.py` : contains the boiler plate code for some of the Differential Equation problem
+`base/solver.py`: contains numerical solver: Euler method, 2nd order Runge-Kutta method and 4th order Runge-Kutta method
